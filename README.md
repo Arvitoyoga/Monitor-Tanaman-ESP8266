@@ -1,11 +1,11 @@
 # Monitor-Tanaman-ESP8266
 
-/*
+
 =====================================================================
 Program Smart Farming IoT dengan ESP8266
 =====================================================================
 
-Deskripsi:
+
 Program ini digunakan untuk otomatisasi penyiraman tanaman dan 
 penyemprotan pestisida berbasis IoT menggunakan ESP8266. 
 Sistem membaca kelembaban tanah, mendeteksi hujan, serta 
@@ -46,4 +46,4 @@ Tujuan:
   maupun manual.  
 - Memberikan notifikasi kondisi lingkungan melalui IoT.  
 - Menampilkan data sensor secara real-time di LCD dan aplikasi Blynk.  
-*/
+
