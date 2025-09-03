@@ -1,6 +1,6 @@
 # Monitor-Tanaman-ESP8266
 
-
+/*
 =====================================================================
 Program Smart Farming IoT dengan ESP8266
 =====================================================================
@@ -46,4 +46,4 @@ Tujuan:
   maupun manual.  
 - Memberikan notifikasi kondisi lingkungan melalui IoT.  
 - Menampilkan data sensor secara real-time di LCD dan aplikasi Blynk.  
-
+*/
